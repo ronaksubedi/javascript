@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center; 
+      
+}
+#mybutton{
+    background: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+#mybutton:hover {
+    background-color: darkgreen;
+}
+.myLabel {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+}
